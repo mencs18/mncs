@@ -16,6 +16,7 @@ Hi,xinshuwei
 Hi，我是李世贤
 曹家英
 王磊
+xp
 dsjkfjksdjfjsd
 ## 设置git
 git config --global user.name "你的账号"
