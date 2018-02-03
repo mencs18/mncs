@@ -18,6 +18,9 @@ Hi，我是李世贤
 王磊
 dsjkfjksdjfjsd
 123
+
+大家好，我是汝华，来自上海
+
 ## 设置git
 git config --global user.name "你的账号"
 
