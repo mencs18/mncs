@@ -7,7 +7,11 @@
 \
 大家好，我是xxx
 
+<<<<<<< HEAD
 大家好，我是xkn2
+=======
+大家好，我是William Huang
+>>>>>>> 2b74cee9c1abaca517f8bf04e00b46bab1bed87b
 
 大家好，我是Derek
 
