@@ -1,5 +1,5 @@
 # mncs
-小组讨论白板
+## 小组讨论白板
 \
 大家好，我是xxx
 \
@@ -11,6 +11,9 @@
 git config --global user.name "你的账号"
 
 git config --global user.email 你的email
+
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
 
 git config --list
 
