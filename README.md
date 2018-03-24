@@ -3,7 +3,7 @@
 \
 大家好，我是xxx
 \
-大家好, 我是贺佳皓
+大家好, 我是xxx
 \
 大家好，我是xxx
 
@@ -24,3 +24,6 @@ pip3 install --upgrade pip
 pip3 install decorator==4.1.2
 
 pip3 install jupyter
+
+
+大家好，我是贺佳皓
