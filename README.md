@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # mncs
-=======
-﻿# mncs
->>>>>>> 238f70af105a69318f6f266053816ce065915311
 ## 小组讨论白板
 \
 大家好，我是yesong
@@ -10,30 +6,24 @@
 大家好, 我是贺佳皓
 \
 大家好，我是xxx
-<<<<<<< HEAD
 
 大家好，我是xkn2
 大家好，我是William Huang
-=======
->>>>>>> 238f70af105a69318f6f266053816ce065915311
 
 大家好，我是Derek
 
 
-<<<<<<< HEAD
 
 大家好，我是iwjcsg
 
 
 jupyter介绍 https://segmentfault.com/a/1190000013014274
-=======
 大家好，我是Derek
 jupyter介绍 https://segmentfault.com/a/1190000013014274
 
 
 
 test adding by wuer 20180324
->>>>>>> 238f70af105a69318f6f266053816ce065915311
 
 ## 设置git
 git config --global user.name "你的账号"
