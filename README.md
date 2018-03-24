@@ -1,4 +1,4 @@
-# mncs
+﻿# mncs
 ## 小组讨论白板
 \
 大家好，我是yesong
@@ -17,6 +17,8 @@
 
 **********************************/
 大家好，我是William Huang
+=======
+>>>>>>> 238f70af105a69318f6f266053816ce065915311
 
 大家好，我是Derek
 >>>>>>> 6a3f2bed679304031659066bf976c1d8412e8378
@@ -25,12 +27,19 @@
 jupyter介绍 https://segmentfault.com/a/1190000013014274
 
 <<<<<<< HEAD
-=======
 
 大家好，我是iwjcsg
 
 
 jupyter介绍 https://segmentfault.com/a/1190000013014274
+=======
+大家好，我是Derek
+jupyter介绍 https://segmentfault.com/a/1190000013014274
+
+
+
+test adding by wuer 20180324
+>>>>>>> 238f70af105a69318f6f266053816ce065915311
 
 >>>>>>> 6a3f2bed679304031659066bf976c1d8412e8378
 ## 设置git
