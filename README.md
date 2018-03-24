@@ -1,5 +1,4 @@
-
-# mncs
+﻿# mncs
 ## 小组讨论白板
 \
 大家好，我是xxx
@@ -7,19 +6,16 @@
 大家好, 我是贺佳皓
 \
 大家好，我是xxx
-\
-大家好，我是刘超一
-\
-大家好，我不是刘超一
-\
-大家好，我是William Huang
-\
-大家好，我是wei
 
 
 
-\
-大家好，我是wuer
+大家好，我是Derek
+jupyter介绍 https://segmentfault.com/a/1190000013014274
+
+
+
+test adding by wuer 20180324
+ 
 ## 设置git
 git config --global user.name "你的账号"
 
