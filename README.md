@@ -1,26 +1,12 @@
 # mncs
 小组讨论白板
-
 \
-大家好，我是余亚东
+大家好，我是xxx
 \
-Hello, 我是张泽！
+大家好, 我是xxx
+\
+大家好，我是xxx
 
-大家好，我是董利军
-
-Hi，王安然
-Hi,辛佳奇
-
-大家好，我是陈强
-大家好，我是曹顺程
-Hi，我是李世贤
-曹家英
-王磊
-
-Hi,I'm WeiXia
-
-xp
-dsjkfjksdjfjsd
 ## 设置git
 git config --global user.name "你的账号"
 
