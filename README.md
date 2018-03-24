@@ -2,7 +2,7 @@
 # mncs
 ## 小组讨论白板
 \
-大家好，我 wuer
+大家好，我是xxx
 \
 大家好, 我是贺佳皓
 \
@@ -11,8 +11,10 @@
 大家好，我是刘超一
 \
 大家好，我不是刘超一
-
+\
 大家好，我是William Huang
+\
+大家好，我是wei
 ## 设置git
 git config --global user.name "你的账号"
 
