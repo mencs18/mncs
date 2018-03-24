@@ -11,6 +11,8 @@
 大家好，我是刘超一
 \
 大家好，我不是刘超一
+
+大家好，我是William Huang
 ## 设置git
 git config --global user.name "你的账号"
 
