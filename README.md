@@ -15,7 +15,7 @@ jupyter介绍 https://segmentfault.com/a/1190000013014274
 
 
 test adding by wuer 20180324
- 
+
 ## 设置git
 git config --global user.name "你的账号"
 
